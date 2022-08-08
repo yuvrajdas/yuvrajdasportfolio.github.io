@@ -547,6 +547,7 @@ border-radius: 10px;
 }
   
   .send{
+    background-color: rgb(36, 34, 34);
     text-decoration: none;
     font-weight: 900;
     text-align: center;
@@ -557,10 +558,10 @@ border-radius: 10px;
     letter-spacing: 1px;
     border: 1px solid white;
     color: white;
-     width: 120px;
+    width: 120px;
     
 }
-.contacts a:hover{
+.contacts button:hover{
      box-shadow:  0 10px 30px #a8eb12;
      background-color: #a8eb12;
      border: none;
